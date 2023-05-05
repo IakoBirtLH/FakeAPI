@@ -17,15 +17,18 @@
 			"nombre": "Golgo",
 			"genero": "Macho",
 			"estado": "Grave",
-			"descripcion": "Lorem ipsum"
-		},{
+			"descripcion": "Lorem ipsum",
+			"avatar": "http://placekitten.com/200/300"
+		},
+		{
 			"id": 3,
-			"tipoAnimal": "Tortuga",
-			"subtipoAnimal": "Verde",
-			"nombre": "Tortuga",
-			"genero": "Hembra",
+			"tipoAnimal": "Oso",
+			"subtipoAnimal": "Pardo",
+			"nombre": "Yogi",
+			"genero": "Macho",
 			"estado": "Moderado",
-			"descripcion": "Lorem ipsum"
+			"descripcion": "Lorem ipsum",
+			"avatar": "https://place.dog/300/200"
 		}
 	]
 }
