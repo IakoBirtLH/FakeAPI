@@ -1,0 +1,30 @@
+{
+	"animales": [
+		{
+			"id": 1,
+			"tipoAnimal": "Perro",
+			"subtipoAnimal": "Boxer",
+			"nombre": "Kira",
+			"genero": "Hembra",
+			"estado": "Leve",
+			"descripcion": "Lorem ipsum"
+		},
+		{
+			"id": 2,
+			"tipoAnimal": "Gato",
+			"subtipoAnimal": "Siames",
+			"nombre": "Golgo",
+			"genero": "Macho",
+			"estado": "Grave",
+			"descripcion": "Lorem ipsum"
+		},{
+			"id": 3,
+			"tipoAnimal": "Tortuga",
+			"subtipoAnimal": "Verde",
+			"nombre": "Tortuga",
+			"genero": "Hembra",
+			"estado": "Moderado",
+			"descripcion": "Lorem ipsum"
+		}
+	]
+}
