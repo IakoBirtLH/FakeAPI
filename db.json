@@ -28,6 +28,36 @@
 			"genero": "Macho",
 			"estado": "Moderado",
 			"descripcion": "Lorem ipsum",
+			"avatar": "https://placebear.com/200/300"
+		},
+		{
+			"id": 4,
+			"tipoAnimal": "Oso",
+			"subtipoAnimal": "Pardo",
+			"nombre": "Yogi",
+			"genero": "Macho",
+			"estado": "Moderado",
+			"descripcion": "Lorem ipsum",
+			"avatar": "https://placebear.com/200/300"
+		},
+		{
+			"id": 5,
+			"tipoAnimal": "Gato",
+			"subtipoAnimal": "Siames",
+			"nombre": "Golgo",
+			"genero": "Macho",
+			"estado": "Grave",
+			"descripcion": "Lorem ipsum",
+			"avatar": "http://placekitten.com/200/300"
+		},
+		{
+			"id": 6,
+			"tipoAnimal": "Perro",
+			"subtipoAnimal": "Boxer",
+			"nombre": "Kira",
+			"genero": "Hembra",
+			"estado": "Leve",
+			"descripcion": "Lorem ipsum",
 			"avatar": "https://place.dog/300/200"
 		}
 	]
