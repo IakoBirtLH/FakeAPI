@@ -7,7 +7,8 @@
 			"nombre": "Kira",
 			"genero": "Hembra",
 			"estado": "Leve",
-			"descripcion": "Lorem ipsum"
+			"descripcion": "Lorem ipsum",
+			"avatar": "https://place.dog/300/200"
 		},
 		{
 			"id": 2,
